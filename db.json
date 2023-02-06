@@ -1,0 +1,122 @@
+{
+  "sanduíche": [
+    {
+      "id": "1",
+      "nome": "X-burguer",
+      "tipo": "tradicional",
+      "ingredientes": "Pão, carne, queijo e salada",
+      "preco": "R$10"
+    },
+    {
+      "id": "2",
+      "nome": "X-egg",
+      "tipo": "tradicional",
+      "ingredientes": "Pão, carne, queijo e ovo",
+      "preco": "R$12"
+    },
+    {
+      "id": "3",
+      "nome": "X-bacon",
+      "tipo": "tradicional",
+      "ingredientes": "Pão, carne, queijo e bacon",
+      "preco": "R$12"
+    },
+    {
+      "id": "4",
+      "nome": "X-tudo",
+      "tipo": "tradicional",
+      "ingredientes": "Pão, carne, queijo, ovo, salada, presunto e bacon",
+      "preco": "R$15"
+    }
+  ],
+  "bebida": [
+    {
+      "id": "1",
+      "nome": "Coca-Cola",
+      "tipo": "refrigerante",
+      "tamanho": "2 litros",
+      "preco": "R$10"
+    },
+    {
+      "id": "2",
+      "nome": "Guarana",
+      "tipo": "refrigerante",
+      "tamanho": "600ml",
+      "preco": "R$6"
+    },
+    {
+      "id": "3",
+      "nome": "Guarana",
+      "tipo": "refrigerante",
+      "tamanho": "600ml",
+      "preco": "R$6"
+    },
+    {
+      "id": "4",
+      "nome": "H20",
+      "tipo": "refrigerante",
+      "tamanho": "600ml",
+      "preco": "R$8"
+    }
+  ],
+  "sobremesa": [
+    {
+      "id": "1",
+      "nome": "Brownie",
+      "porcao": "individual",
+      "adicional": "calda",
+      "preco": "R$20"
+    },
+    {
+      "id": "2",
+      "nome": "Bolo chocolate",
+      "porcao": "fatia",
+      "adicional": "cobertura",
+      "preco": "R$15"
+    },
+    {
+      "id": "3",
+      "nome": "Sorvete",
+      "porcao": "3 bolas",
+      "adicional": "cobertura",
+      "preco": "R$18"
+    },
+    {
+      "id": "4",
+      "nome": "Petit Gateau",
+      "porcao": "individual",
+      "adicional": "sorvete",
+      "preco": "R$20"
+    }
+  ],
+  "Acompanhamento": [
+    {
+      "id": "1",
+      "nome": "Batata frita",
+      "quantidade": "150g",
+      "tipo": "canoa",
+      "preco": "R$10"
+    },
+    {
+      "id": "2",
+      "nome": "Batata frita",
+      "quantidade": "500g",
+      "tipo": "palito",
+      "preco": "R$25"
+    },
+    {
+      "id": "3",
+      "nome": "Anel de cebola",
+      "quantidade": "10 unidades",
+      "tipo": "rodela",
+      "preco": "R$15"
+    },
+    {
+      "id": "4",
+      "nome": "Nuggets",
+      "quantidade": "10 unidades",
+      "tipo": "pop chicken",
+      "preco": "R$15"
+    }
+  ]
+}

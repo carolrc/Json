@@ -1,0 +1,16 @@
+{
+  "name": "projeto-individual-modulo-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository":"https://github.com/carolrc/json.git",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "test <carol_26_01@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
